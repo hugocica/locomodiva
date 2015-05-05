@@ -269,7 +269,7 @@ if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
 
         </div><!-- end container -->
     </div><!-- end footer-wrap -->
-<script type="text/javascript" src="/files/theme/custom.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
 
 
 <script type="text/javascript">

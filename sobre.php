@@ -1,57 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Sobre - Locomotiva</title>
-
-<meta property='og:site_name' content='' />
-<meta property='og:title' content='Sobre' />
-<meta property='og:description' content='Fundada em dezembro de 2005, a empresa Locomotiva é uma associação civil sem fins lucrativos, constituída e gerida por alunos de graduação do curso de Rádio e TV da Faculdade de Artes,...' />
-<meta property='og:image' content='http://locomotivartv.weebly.com/uploads/3/9/8/5/39851851/4447280_orig.jpg' />
-<meta property='og:url' content='/sobre.php' />
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    
-		
-		<link rel="stylesheet" href="//cdn2.editmysite.com/css/sites.css?buildTime=1428611273" type="text/css" /><link rel='stylesheet' type='text/css' href='//cdn1.editmysite.com/editor/libraries/fancybox/fancybox.css?1426714702' />
-<link rel='stylesheet' type='text/css' href='css/loco-style.css' title='wsite-theme-css' />
-<link href='//fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
-<link href='//cdn1.editmysite.com/editor/fonts/Bebas/font.css?2' rel='stylesheet' type='text/css' />
-<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
-<style type='text/css'>
-.wsite-elements.wsite-not-footer div.paragraph, .wsite-elements.wsite-not-footer p, .wsite-elements.wsite-not-footer .product-block .product-title, .wsite-elements.wsite-not-footer .product-description, .wsite-elements.wsite-not-footer .wsite-form-field label, .wsite-elements.wsite-not-footer .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
-#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
-.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
-.wsite-elements.wsite-not-footer h2, .wsite-elements.wsite-not-footer .product-long .product-title, .wsite-elements.wsite-not-footer .product-large .product-title, .wsite-elements.wsite-not-footer .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
-#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
-.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
-#wsite-title {}
-.wsite-menu-default a {}
-.wsite-menu a {}
-.wsite-image div, .wsite-caption {}
-.galleryCaptionInnerText {}
-.fancybox-title {}
-.wslide-caption-text {}
-.wsite-phone {}
-.wsite-headline {}
-.wsite-headline-paragraph {}
-.wsite-button-inner {}
-.wsite-not-footer blockquote, #wsite-com-product-tab blockquote {}
-.wsite-footer blockquote {}
-.blog-header h2 a {}
-#wsite-content h2.wsite-product-title {}
-.wsite-product .wsite-product-price a {}
-</style>
-<style>
-.wsite-background {background-image: url('//cdn1.editmysite.com/uploads/3/9/8/5/39851851/background-images/1974602576.jpg') !important;background-repeat: no-repeat !important;background-position: 50% 50% !important;background-size: cover !important;background-color: transparent !important;background: inherit;}
-body.wsite-background {background-attachment: fixed !important;}
-</style>
-		<script><!--
-var STATIC_BASE = '//cdn1.editmysite.com/';
-var STYLE_PREFIX = 'wsite';
-//-->
-</script>
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
-<script src='//cdn2.editmysite.com/js/site/main.js?buildTime=1428611273'></script>
+<?php include_once 'header.php'; ?>
 <script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
 <script type="text/javascript"><!--
 	
@@ -324,7 +271,7 @@ if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
 
         </div><!-- end container -->
     </div><!-- end footer-wrap -->
-<script type="text/javascript" src="/files/theme/custom.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
 
 		
 <script type="text/javascript">

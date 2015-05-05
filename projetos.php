@@ -1,85 +1,6 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Projetos - Locomotiva</title>
-
-<meta property='og:site_name' content='' />
-<meta property='og:title' content='Projetos' />
-<meta property='og:description' content='A AIESEC é a maior organização sem fins lucrativos gerida por jovens que desenvolve em seus membros liderança responsável e empreendedora. A partir de 2014, a Locomotiva ficou responsável pela...' />
-<meta property='og:image' content='http://locomotivartv.weebly.com/uploads/3/9/8/5/39851851/801480596.png' />
-<meta property='og:image' content='http://locomotivartv.weebly.com/uploads/3/9/8/5/39851851/775960938.png' />
-<meta property='og:url' content='http://locomotivartv.weebly.com/projetos.html' />
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    
-		
-		<link rel="stylesheet" href="//cdn2.editmysite.com/css/sites.css?buildTime=1428611273" type="text/css" /><link rel='stylesheet' type='text/css' href='//cdn1.editmysite.com/editor/libraries/fancybox/fancybox.css?1426714702' />
-<link rel='stylesheet' type='text/css' href='css/loco-style.css' title='wsite-theme-css' />
-<link href='//fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
-<link href='//cdn1.editmysite.com/editor/fonts/Bebas/font.css?2' rel='stylesheet' type='text/css' />
-<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
-<style type='text/css'>
-.wsite-elements.wsite-not-footer div.paragraph, .wsite-elements.wsite-not-footer p, .wsite-elements.wsite-not-footer .product-block .product-title, .wsite-elements.wsite-not-footer .product-description, .wsite-elements.wsite-not-footer .wsite-form-field label, .wsite-elements.wsite-not-footer .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
-#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
-.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
-.wsite-elements.wsite-not-footer h2, .wsite-elements.wsite-not-footer .product-long .product-title, .wsite-elements.wsite-not-footer .product-large .product-title, .wsite-elements.wsite-not-footer .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
-#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
-.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
-#wsite-title {}
-.wsite-menu-default a {}
-.wsite-menu a {}
-.wsite-image div, .wsite-caption {}
-.galleryCaptionInnerText {}
-.fancybox-title {}
-.wslide-caption-text {}
-.wsite-phone {}
-.wsite-headline {}
-.wsite-headline-paragraph {}
-.wsite-button-inner {}
-.wsite-not-footer blockquote, #wsite-com-product-tab blockquote {}
-.wsite-footer blockquote {}
-.blog-header h2 a {}
-#wsite-content h2.wsite-product-title {}
-.wsite-product .wsite-product-price a {}
-</style>
-<style>
-.wsite-background {background-image: url('//cdn1.editmysite.com/uploads/3/9/8/5/39851851/background-images/1974602576.jpg') !important;background-repeat: no-repeat !important;background-position: 50% 50% !important;background-size: cover !important;background-color: transparent !important;background: inherit;}
-body.wsite-background {background-attachment: fixed !important;}
-</style>
-		<script><!--
-var STATIC_BASE = '//cdn1.editmysite.com/';
-var STYLE_PREFIX = 'wsite';
-//-->
-</script>
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
-<script src='//cdn2.editmysite.com/js/site/main.js?buildTime=1428611273'></script>
-<script type="text/javascript">_W.configDomain = "www.weebly.com";</script><script>_W.relinquish && _W.relinquish()</script>
-<script type="text/javascript"><!--
-	
-	
-	(function(jQuery){
-		function initFlyouts(){
-			initPublishedFlyoutMenus(
-				[{"id":"386327531541911358","title":"P&aacute;gina Inicial","url":"index.php","target":""},{"id":"542910479491953574","title":"Sobre","url":"sobre.php","target":""},{"id":"551092415317521023","title":"Projetos","url":"projetos.php","target":""},{"id":"112332591502695733","title":"Contato","url":"contato.php","target":""},{"id":"693013066733283107","title":"Blog","url":"http:\/\/locomotivajr.wordpress.com","target":"_blank"}],
-				"551092415317521023",
-				"<li class=\"wsite-menu-item-wrap\"><a href=\"#\" data-membership-required=\"\" class=\"wsite-menu-item\">{{title}}<\/a><\/li>",
-				'active',
-				false,
-				{"site\/menu\/submenu-main":"<div class=\"wsite-menu-wrap\" style=\"display:none\">{{! Designer note: \"wsite-menu-wrap\" required on submenu wrapper }}\n\t<ul class=\"wsite-menu\">{{! Designer note: \"wsite-menu\" required on submenu element }}\n\t\t{{#children}}{{> site\/menu\/submenu-item}}{{\/children}}\n\t<\/ul>\n<\/div>\n","site\/menu\/submenu-item":"<li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-subitem-wrap{{#current_page}} wsite-nav-current{{\/current_page}}\">{{! Designer note: id required & \"wsite-menu-subitem-wrap\" required on the item wrap }}\n\t<a href=\"{{itemlink}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-subitem\">{{! Designer note: \"wsite-menu-subitem\" required on the item link }}\n\t\t<span class=\"wsite-menu-title\">\n\t\t\t{{{itemtitle}}}\n\t\t<\/span>{{#has_children}}<span class=\"wsite-menu-arrow\">&gt;<\/span>{{\/has_children}}\n\t<\/a>\n\t{{#has_children}}{{> site\/menu\/submenu-main}}{{\/has_children}}\n<\/li>\n","site\/menu\/main":"<ul class=\"wsite-menu-default\">{{> site\/menu\/main-without-wrap}}<\/ul>{{! Designer note: \"wsite-menu-default\" required on menu element }}\n","site\/menu\/main-without-wrap":"{{#links}}{{!\n}}{{#current_page}}{{> site\/menu\/item-current}}{{\/current_page}}{{!\n}}{{^current_page}}{{> site\/menu\/item}}{{\/current_page}}{{!\n}}{{\/links}}\n","site\/menu\/item-current":"<li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">{{! Designer note: id required & \"wsite-menu-item-wrap\" required on the item wrapper }}\n\t<a href=\"{{itemlink}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-item\">{{! Designer note: \"wsite-menu-item\" required on the item link }}\n\t\t{{{itemtitle}}}\n\t<\/a>\n\t{{#has_children}}{{> site\/menu\/submenu-main}}{{\/has_children}}\n<\/li>\n","site\/menu\/item":"<li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\">{{! Designer note: id required & \"wsite-menu-item-wrap\" required on the item wrapper }}\n\t<a href=\"{{itemlink}}\" data-membership-required=\"{{membership-required}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-item\">{{! Designer note: \"wsite-menu-item\" required on the item link }}\n\t\t{{{itemtitle}}}\n\t<\/a>\n\t{{#has_children}}{{> site\/menu\/submenu-main}}{{\/has_children}}\n<\/li>\n"}
-			)
-		}
-		if (jQuery) {
-			jQuery(document).ready(function() { jQuery(initFlyouts); });
-		}else{
-			if (Prototype.Browser.IE) window.onload = initFlyouts;
-			else document.observe('dom:loaded', initFlyouts);
-		}
-	})(window._W && _W.jQuery)
-//-->
-</script>
-		
-	</head>
-	<body class="no-header-page  wsite-theme-light  wsite-page-projetos"><div id="nav-wrap">
+<?php include_once 'header.php'; ?>
+	<body class="no-header-page  wsite-theme-light  wsite-page-projetos">
+	<div id="nav-wrap">
 		<div class="container">
 			<table id="header">
 				<tr>
@@ -466,7 +387,7 @@ if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
 
         </div><!-- end container -->
     </div><!-- end footer-wrap -->
-<script type="text/javascript" src="/files/theme/custom.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
 
 		
 <script type="text/javascript">
