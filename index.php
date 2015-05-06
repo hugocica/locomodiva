@@ -1,16 +1,4 @@
 <?php include_once 'header.php'; ?>
-
-<div id="nav-wrap">
-		<div class="container">
-			<table id="header">
-				<tr>
-					<td id ="logo"><span class='wsite-logo'><a href='/'><span id="wsite-title">Locomotiva</span></a></span></td>
-					<td><ul class='wsite-menu-default'><li id="active"><a href="index.php">P&aacute;gina Inicial</a></li><li id='pg542910479491953574'><a href="sobre.php" data-membership-required="0" >Sobre</a></li><li id='pg551092415317521023'><a href="projetos.php" data-membership-required="0" >Projetos</a></li><li id='pg112332591502695733'><a href="contato.php" data-membership-required="0" >Contato</a></li><li id='pg693013066733283107'><a href="http://locomotivajr.wordpress.com" data-membership-required="0"  target='_blank'>Blog</a></li></ul></td>
-					<!--<td class="search">{search}</td>-->
-				</tr>
-			</table>
-		</div><!-- end container -->
-	</div><!-- end nav-wrap -->
         
 		<div class="banner-wrap wsite-background wsite-custom-background">
 			<div id="banner">
