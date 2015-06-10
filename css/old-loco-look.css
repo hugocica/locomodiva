@@ -68,7 +68,7 @@
  #nav-wrap .container ul li { list-style: none; float: left; text-transform: uppercase; }
  #nav-wrap .container ul span:last-child li, #nav-wrap .container ul > li:last-child { background: none; }
  #nav-wrap .container ul li a { float: left; display: block; font-family: 'Lato', sans-serif; color: #fff; padding: 14px 12px; border: 0; outline: 0; list-style-type: none; font-size: 13px; font-weight: bold; }
- #nav-wrap .container ul li#active a, #nav-wrap .container ul li a:hover { color: #333; background: #f64649; border: 0; }
+ #nav-wrap .container ul li.active a, #nav-wrap .container ul li a:hover { color: #333; background: #f64649; border: 0; }
  #wsite-menus .wsite-menu li a { font-family: 'Lato', sans-serif; padding: 10px 0; padding-left: 4px; font-size: 13px; color: #fff; background: url("theme/submenu-bg.png?1426797023") repeat left top; border: 0; border-bottom: 1px solid #303030; }
  #wsite-menus .wsite-menu li a:hover { color: #fff; background: url("theme/submenu-hover-bg.png?1426797023") repeat left top; border-left: 4px solid #ffd927; padding-left: 0; }
  #banner-wrap { display:none; }
@@ -161,7 +161,7 @@
  .blogCommentHeading .blogCommentHeadingInner .blogCommentAuthor .link { margin: 0 5px; float: none; display: inline-block; }
  .blogCommentHeading .blogCommentAuthor, .blogCommentHeading .blogCommentDate { float: none; text-align: left; height: auto; line-height: 1; padding: 0; display: inline; vertical-align: baseline; text-transform: none; }
 
-div.paragraph ul, div.paragraph ol { padding-left: 2.3em !important; margin: 5px 0 !important; overflow:hidden; }
+div.paragraph ul, div.paragraph ol { padding-left: .5em !important; margin: 5px 0 !important; overflow:hidden; }
 div.paragraph li { padding-left: 5px !important; margin: 3px 0 0 !important; }
 div.paragraph ul, div.paragraph ul li { list-style: disc outside !important; }
 div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; }

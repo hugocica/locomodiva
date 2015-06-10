@@ -20,7 +20,7 @@
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="/uploads/3/9/8/5/39851851/801480596.png" alt="Picture" style="width:auto;max-width:100%" />
+<img src="images/uploads/projetos/aiesec.png" alt="Picture" style="width:auto;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -64,7 +64,7 @@
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="/uploads/3/9/8/5/39851851/775960938.png" alt="Picture" style="width:auto;max-width:100%" />
+<img src="images/uploads/projetos/loco-de-ouro.png" alt="Picture" style="width:auto;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>

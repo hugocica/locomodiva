@@ -16,10 +16,14 @@
 <link href='//fonts.googleapis.com/css?family=Lato:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
 <link href='//cdn1.editmysite.com/editor/fonts/Bebas/font.css?2' rel='stylesheet' type='text/css' />
 <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
-
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	
 <script src='js/jquery-1.7.2.min.js'></script>
-<script src='js/old-loco-script.js'></script>
+<!-- <script src='js/old-loco-script.js'></script> -->
 <script src='js/roteiro.js'></script>
+<script>
+	var current_page;
+</script>
 
 
 </head>
@@ -30,7 +34,8 @@
 			<table id="header">
 				<tr>
 					<td id ="logo"><span class='wsite-logo'><a href='/'><span id="wsite-title">Locomotiva</span></a></span></td>
-					<td><ul class='wsite-menu-default'><li><a href="index.php">P&aacute;gina Inicial</a></li><li id='pg542910479491953574'><a href="sobre.php" data-membership-required="0" >Sobre</a></li><li id='pg551092415317521023'><a href="projetos.php" data-membership-required="0" >Projetos</a></li><li id='pg112332591502695733'><a href="contato.php" data-membership-required="0" >Contato</a></li><li id='pg693013066733283107'><a href="http://locomotivajr.wordpress.com" data-membership-required="0"  target='_blank'>Blog</a></li></ul></td>
+					<!-- <td><ul class='wsite-menu-default'><li><a href="index.php">P&aacute;gina Inicial</a></li><li id='pg542910479491953574'><a href="sobre.php" data-membership-required="0" >Sobre</a></li><li id='pg551092415317521023'><a href="projetos.php" data-membership-required="0" >Projetos</a></li><li id='pg112332591502695733'><a href="contato.php" data-membership-required="0" >Contato</a></li><li id='pg693013066733283107'><a href="http://locomotivajr.wordpress.com" data-membership-required="0"  target='_blank'>Blog</a></li></ul></td> -->
+					<td><ul class='wsite-menu-default'><li id="inicial"><a href="#">P&aacute;gina Inicial</a></li><li id='sobre'><a href="#" data-membership-required="0" >Sobre</a></li><li id='projetos'><a href="#" data-membership-required="0" >Projetos</a></li><li id='contatos'><a href="#" data-membership-required="0" >Contato</a></li><li id='pg693013066733283107'><a href="http://locomotivajr.wordpress.com" data-membership-required="0"  target='_blank'>Blog</a></li></ul></td>
 					<!--<td class="search">{search}</td>-->
 				</tr>
 			</table>

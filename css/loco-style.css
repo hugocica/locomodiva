@@ -1,1 +1,17 @@
-div.paragraph ul, div.paragraph ul li { list-style-image: url(../images/play.png)!important; }
+/*div.paragraph ul, div.paragraph ul li { list-style-image: url(../images/play.png)!important; }*/
+
+div.paragraph ul, div.paragraph ul li { 
+	list-style: none!important; 
+}
+
+div.paragraph ul li {
+	padding: 1.5em;
+}
+
+div.paragraph ul li:before {
+	content: '\f01d';
+	font-family: FontAwesome;
+	display: inline-block;
+	width: 1.2em;
+	margin-left: -1.2em;
+}
