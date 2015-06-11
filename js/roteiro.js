@@ -25,8 +25,7 @@ function loadContent($page) {
 		type: 'POST',
 		dataType: 'html',
 		beforeSend: function() {
-			$('.master-wrapper').html('<img src="images/371.GIF" style="position:absolute;top:calc(90% - '+height+'px);left:calc(50% - 42px)">');
-			// delay(500);
+			$('.master-wrapper').html('<img src="images/371.GIF" style="position:absolute;top:calc(90% - '+height+'px);left:calc(50% - 60px)">');
 		},
 		success: function(response) {
 			$('.master-wrapper').html(response).fadeIn(300);
