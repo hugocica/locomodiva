@@ -1,5 +1,5 @@
-<?php include_once 'header.php'; ?>
-    <div id="main-wrap">
+<?php sleep(2); ?>
+<div id="main-wrap">
         <div class="container">
    			<div id='wsite-content' class='wsite-elements wsite-not-footer'>
 <h2 class="wsite-content-title" style="text-align:left;"><font size="7">PROJETOS</font></h2>
@@ -295,92 +295,11 @@
 		}
 	}
 </style>
-<script type='text/javascript' src='//cdn2.editmysite.com/js/site/footerSignup.js?buildTime=1428691787'></script>
-<script type='text/javascript'>
-	var script;
-	if (typeof Weebly == 'undefined') {
-		Weebly = {};
-	}
-	if (!Weebly.jQuery) {
-		script = document.createElement('script');
-		script.onload = function() {
-			Weebly.jQuery = jQuery.noConflict(true);
-			Weebly.footer.setupContainer(Weebly.jQuery, 'cdn2.editmysite.com', '1428691787');
-		};
-		script.src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js';
-		document.head.appendChild(script);
-	} else {
-		Weebly.footer.setupContainer(Weebly.jQuery, 'cdn2.editmysite.com', '1428691787');
-	}
-</script>
-<script type='text/javascript'>
-<!--
-
-if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
-	var windowHref = window.location.href || '';
-	if (windowHref.indexOf('?') > -1) {
-		windowHref += '&';
-	} else {
-		windowHref += '?';
-	}
-	document.write(
-		"&nbsp;&nbsp;&nbsp;&nbsp;" +
-		"<a class='wsite-view-link-mobile' href='" + windowHref + "view=mobile'>Mobile Site</a>"
-	);
-}
-
-//-->
-</script>
-
         </div><!-- end container -->
     </div><!-- end footer-wrap -->
 <script type="text/javascript" src="js/custom.js"></script>
 
-		
-<script type="text/javascript">
-
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-7870337-1']);
-	_gaq.push(['_setDomainName', 'none']);
-	_gaq.push(['_setAllowLinker', true]);
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-
-</script>
-
-
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-0dYLvhSGGqUWo",
-labels:"l0,u39851851.u39851851s835675498407478810"
-});
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif?labels=l0,u39851851.u39851851s835675498407478810" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
-
-
+	
 <script>
 
 	(function(jQuery) {
@@ -418,8 +337,3 @@ labels:"l0,u39851851.u39851851s835675498407478810"
 	})(window._W && _W.jQuery);
 
 </script>
-
-
-	</body>
-</html>
-	

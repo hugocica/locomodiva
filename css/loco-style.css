@@ -15,3 +15,7 @@ div.paragraph ul li:before {
 	width: 1.2em;
 	margin-left: -1.2em;
 }
+
+.master-wrapper {
+	height: 100%;
+}
