@@ -1,15 +1,16 @@
 <?php sleep(2); ?>
         
 		<div class="banner-wrap wsite-background wsite-custom-background">
-			<div id="banner">
-				<h2><span class='wsite-text wsite-headline'><img src="images/favicon.png" height="150" width="150" alt="locomodiva"><span style="font-style: normal;">LOCOMOTIVA<span style="line-height: 0; display: none;">﻿</span></span></span></h2>
-				<p><span class='wsite-text wsite-headline-paragraph'>A empresa júnior de Rádio e TV da UNESP de Bauru</span></p>	
-				<div class="button-wrap"><div style="text-align:center;"><div style="height: 0px; overflow: hidden;"></div>
-<a class="wsite-button wsite-button-small wsite-button-normal" href="sobre.php" >
-<span class="wsite-button-inner">SAIBA MAIS</span>
-</a>
-<div style="height: 0px; overflow: hidden;"></div></div></div>
-				<a name="content" id="skip-to-content" href="#content"></a>
+			<div class="banner-overlay">
+				<div id="banner">
+					<h2><span class='wsite-text wsite-headline'><img src="images/locomotiva-01.png" alt="locomodiva" width="620"><span style="font-style: normal;"><span style="line-height: 0; display: none;">﻿</span></span></span></h2>	
+					<div class="button-wrap"><div style="text-align:center;"><div style="height: 0px; overflow: hidden;"></div>
+	<a class="wsite-button wsite-button-small wsite-button-normal sobre-btn" onclick="loadContent('sobre');">
+	<span class="wsite-button-inner">SAIBA MAIS</span>
+	</a>
+	<div style="height: 0px; overflow: hidden;"></div></div></div>
+					<a name="content" id="skip-to-content" href="#content"></a>
+				</div>
 			</div>
 		</div>
 
@@ -232,13 +233,5 @@
         </div><!-- end container -->
     </div><!-- end main-wrap -->
 
-    <div id="footer-wrap">
-        <div class="container">
-       		
-
-
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700" />
-
-        </div><!-- end container -->
-    </div><!-- end footer-wrap -->
+    
 <script type="text/javascript" src="js/custom.js"></script>

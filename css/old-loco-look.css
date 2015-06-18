@@ -19,7 +19,7 @@
  #header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; }
  a { color: #f64649; }
  a:hover { color: #e34144; }
- h2 { font-size: 40px; padding: .5em 0 .2em 0; line-height: 1.2; font-family: 'Bebas', sans-serif; font-weight: normal; color: #3b3b3b; text-transform: uppercase; }
+ h2 { font-size: 40px; padding: .5em 0 .2em 0; line-height: 1.2; font-family: 'Amaranth', 'Bebas', sans-serif; font-weight: normal; color: #3b3b3b; text-transform: uppercase; }
  h2 font { vertical-align: middle; }
  div.paragraph { font-size: 16px; line-height: 1.5; padding: .5em 0; }
  p { font-size: 16px; line-height: 1.5; padding: .5em 0; }
@@ -27,7 +27,7 @@
  div#content {min-height:400px;}
  .landing-page .wsite-background { -moz-box-sizing: border-box; box-sizing: border-box; min-height: 100%; overflow: hidden; }
  #logo { padding-right: 25px !important; }
- #logo, #logo a { color: #fff; text-transform: uppercase; font-size: 24px; font-family: 'Bebas'; font-weight: normal; }
+ #logo, #logo a { color: #fff; text-transform: uppercase; font-size: 24px; font-family: 'Amaranth', 'Bebas'; font-weight: 400; text-transform: lowercase; }
  #logo a:hover { color: #fff; }
  #logo img, #wsite-title { max-height: 52px; display: block; }
  #header { border-collapse: collapse; border-spacing: 0; width:100%; }
@@ -110,8 +110,7 @@
  .wslide-caption-bg { background-color: rgba(246,70,73,0.85) !important; opacity: 0.85 !important; filter: alpha(opacity=85) !important; }
  .wslide-caption:before { content: ''; display: inline-block; vertical-align: middle; height: 100%; }
  .wslide-caption-text { display: inline-block; vertical-align: middle; text-align: center !important; width: 100%; -moz-box-sizing: border-box; box-sizing: border-box; font-size: 14px; text-shadow: none !important; }
- #footer-wrap { text-align:right; background: #222121; padding: 35px 0 20px; font-size: 13px; color: #fff; }
- #footer-wrap .container h2 { font-size: 13px; color: #989794; font-weight: bold; font-family: 'Lato', sans-serif; }
+ #footer-wrap { text-align:right; background: #222121; padding: 20px 0; font-size: 13px; color: #fff; }
  #footer-wrap .container div.paragraph { font-size: 13px; padding: 15px 0; }
  #footer-wrap .container p { font-size: 13px; padding: 15px 0; }
  #footer-wrap .container blockquote { background: url("theme/quotes.png?1426797023") no-repeat 0px 15px; font-size: 15px; color: #fff; }
@@ -143,7 +142,7 @@
  #main-wrap .blog-title a { color: #333; }
  #wsite-content #commentAreaTitle, #wsite-content #commentReplyTitle, #commentArea .blogCommentText div.paragraph, #main-wrap .blog-sidebar h2 { padding: 0; }
  #wsite-content #commentAreaTitle, #wsite-content #commentReplyTitle, #commentArea .blogCommentText p, #main-wrap .blog-sidebar h2 { padding: 0; }
- #commentAreaTitle { font-family: 'Bebas', sans-serif; }
+ #commentAreaTitle { font-family: 'Amaranth', 'Bebas', sans-serif; }
  .blogCommentHeading, .blogCommentText div.paragraph { font-family: inherit; }
  .blogCommentHeading, .blogCommentText p { font-family: inherit; }
  .blogCommentWrap { background: none; }

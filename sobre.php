@@ -22,7 +22,7 @@
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="images/uploads/4447280_orig.jpg" alt="Imagem" style="width:100%;max-width:836px" />
+<img src="images/uploads/locomodivos/equipe.jpg" alt="equipe" style="width:100%;max-width:836px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -37,11 +37,7 @@
         </div><!-- end container -->
     </div><!-- end main-wrap -->
 
-    <div id="footer-wrap">
-        <div class="container">
-       		
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700" />
-
+    
 <style>
 	@font-face {
 		font-family: 'ProximaNova';

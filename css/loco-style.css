@@ -1,4 +1,19 @@
-/*div.paragraph ul, div.paragraph ul li { list-style-image: url(../images/play.png)!important; }*/
+/* ##### BANNER ####### */
+
+.banner-wrap {
+	background-attachment: fixed;
+}
+
+.banner-overlay {
+	background-color: rgba(101, 47, 107, 0.1);
+	height: 100%;
+	padding-top: 51px;
+	padding-bottom: 55px;
+	text-align: center;
+	display: table-row;
+}
+
+/* ##### MENU ####### */
 
 div.paragraph ul, div.paragraph ul li { 
 	list-style: none!important; 
@@ -16,6 +31,26 @@ div.paragraph ul li:before {
 	margin-left: -1.2em;
 }
 
+/* ##### FOOTER ####### */
+
+.credits h2 {
+	display: inline-block;
+	color: #989794;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-family: 'Amaranth', 'Bebas';
+	font-weight: 400;
+	text-transform: lowercase;
+	margin-right: 10px;
+}
+
+.credits img {
+	width: 50px;
+}
+
+/* ##### BODY ####### */
+
 .master-wrapper {
 	height: 100%;
+	display: inline;
 }
